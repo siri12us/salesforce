@@ -1,0 +1,17 @@
+{
+    "projectName": "Sirisha TrailHead",
+    "username": "sireesharamayanam@gmail.com",
+    "id": "53cabec0-9057-11e7-884e-4b6197923bff",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na35.salesforce.com",
+    "workspace": "C:\\Users\\siree\\Documents\\GitHub\\salesforce\\SFDC Projects",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
